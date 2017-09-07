@@ -1,2 +1,2 @@
 # HTML_Basics
-HTML basics course from Treehouse
+HTML basics course from Treehouse (VR website)
