@@ -1,2 +1,2 @@
 # HTML_Basics
-HTML basics course from Treehouse (VR website)
+HTML basics course, part of the Front End Web development track => VR website
